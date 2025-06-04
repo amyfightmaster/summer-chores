@@ -37,7 +37,7 @@ function trimHedges(name) {
 
 function collectWood(name) {
     const collectWood = new Promise ((resolve, reject) => {
-        const success = Math.random() > 0.4; 
+        const success = Math.random() > 0.6; 
     setTimeout(() => {
       if (success) {
         resolve(`${name} finished collecting wood.`);
@@ -51,7 +51,7 @@ function collectWood(name) {
     
 function waterGarden(name) {
     const waterGarden = new Promise ((resolve, reject) => {
-        const success = Math.random() > 0.4; 
+        const success = Math.random() > 0.8; 
     setTimeout(() => {
       if (success) {
         resolve(`${name} finished watering the garden.`);
