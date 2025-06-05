@@ -29,3 +29,18 @@ This project was difficult, but it was a great opportunity to go hands-on with p
 #### Please Note:
 Sometimes, the chore fails due to the use of randomness. 
 The "tiredness level" does go up with each completed chore, but there is a chance that all chores can be successfully completed.
+
+# Summer Chores -- Async/Await Edition!
+This assignment (still in Week 2, Module 3) was really good hands-on practice for the use of async/await.  And the importance of properly using try-catch when using async/await!
+
+## How to Run
+Please make sure you have node.js installed.
+Clone the repository: git clone https://github.com/amyfightmaster/summer-chores.git 
+Navigate to the folder: cd summer-chores. Run the program: node asyncAwaitVersion.js.
+
+### What I Learned
+I learned how to utilize async functions with pre-existing promises, which was really interesting!  Asynchronous code is neat, but it was also interesting seeing how it looked and behaved more like synchronous code here.  Also, I learned first-hand about the importance of making sure to remember to utilize try-catch blocks.  Otherwise, errors can and will (and do!) pop up.  But more importantly, I gained valuable experience in learning how to fix those errors.  
+
+#### Please Note:
+Sometimes, the chore fails due to the use of randomness. 
+The "tiredness level" does go up with each completed chore, but there is a chance that all chores can be successfully completed.
